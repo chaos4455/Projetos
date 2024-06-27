@@ -4,6 +4,14 @@
 
 Este repositório documenta uma seleção de projetos técnicos significativos ao longo da carreira de Elias dos Santos de Andrade, destacando desde a implementação de Kubernetes na Konecty até a administração de infraestrutura no provedor de internet Wnet.
 
+## Informações de Contato 📞 📧 🌐
+
+- 🏠 **Localização:** Maringá, Paraná, Brasil
+- 📞 **Telefone:** +55 (44) 98765-4321
+- 📧 **E-mail:** elias.andrade@email.com
+- 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/eliasandrade)
+- 🌐 **GitHub:** [github.com/chaos4455](https://github.com/chaos4455)
+- 
 ## Projetos por Empresa e Ano
 
 ### Konecty - Implementação de Kubernetes
