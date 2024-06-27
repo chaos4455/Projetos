@@ -11,7 +11,7 @@ Este repositório documenta uma seleção de projetos técnicos significativos a
 - 📧 **E-mail:** elias.andrade@email.com
 - 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/eliasandrade)
 - 🌐 **GitHub:** [github.com/chaos4455](https://github.com/chaos4455)
-- 
+  
 ## Projetos por Empresa e Ano
 
 ### Konecty - Implementação de Kubernetes
