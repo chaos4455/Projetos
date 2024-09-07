@@ -125,15 +125,6 @@ Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa 
 ![Agile](https://img.shields.io/badge/Agile-39d353?style=flat-square&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=flat-square&logo=scrum&logoColor=white)
 
-# 🚀 Roadmap da Carreira de Elias Andrade
-
-## 📚 Habilidades e Tecnologias
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FBCF4A?style=flat&logo=sklearn&logoColor=000000)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F61?style=flat&logo=keras&logoColor=ffffff)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-007ACC?style=flat&logo=microsftsqlserver&logoColor=ffffff)
-![Web Development](https://img.shields.io/badge/-Web%20Development-3D3D3D?style=flat&logo=html5&logoColor=ffffff)
-
 ## 🎯 Objetivos de Aprendizado
 
 - **Dominar Git e DevOps**  
@@ -158,12 +149,11 @@ Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa 
 
 # 🚀 Roadmap da Carreira de Elias Andrade
 
-## 📚 Habilidades e Tecnologias
+## 📚 Habilidades e Tecnologias de interesse e atuação
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FBCF4A?style=flat&logo=sklearn&logoColor=000000)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F61?style=flat&logo=keras&logoColor=ffffff)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-007ACC?style=flat&logo=microsoftsqlserver&logoColor=ffffff)
-![Web Development](https://img.shields.io/badge/-Web%20Development-3D3D3D?style=flat&logo=html5&logoColor=ffffff)
 ![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat&logo=dotnet&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
@@ -220,49 +210,72 @@ Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa 
      - Suporte aos sistemas de TI utilizados pelo hospital.
      - Manutenção de equipamentos e infraestrutura.
 
-
-
-
-## Projetos por Empresa e Ano 🚀
+## 💼 Projetos e realizações
 
 ### Konecty - Implementação de Kubernetes 🚀
 - **Descrição:** Implantação de um cluster Kubernetes para gerenciamento de contêineres Docker.
-- **Tecnologias Utilizadas:** Kubernetes, Docker, Helm, GitLab CI/CD.
+- **Tecnologias Utilizadas:** 
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+  ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) 
+  ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 - **Contribuições:** Configuração de pipelines de CI/CD para automação de deploy e atualizações.
 - **Detalhes Adicionais:**
   - Configuração de políticas de autoscaling para os pods.
   - Integração de serviços externos via Service Accounts no Kubernetes.
-  - Monitoramento avançado com Prometheus e Grafana.
+  - Monitoramento avançado com ![Prometheus](https://img.shields.io/badge/Prometheus-EC7B28?style=flat-square&logo=prometheus&logoColor=white) e ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white).
+
+---
 
 ### CONFIDENCIAL - COMÉRCIO, SAÚDE E BEM ESTAR 🏥
 - **Descrição:** Administração de redes Windows e Linux em ambiente virtualizado VMware.
-- **Tecnologias Utilizadas:** VMware, Windows Server 2012, Linux Mint, Puppet Bolt.
+- **Tecnologias Utilizadas:** 
+  ![VMware](https://img.shields.io/badge/VMware-60A8F6?style=flat-square&logo=vmware&logoColor=white) 
+  ![Windows Server 2012](https://img.shields.io/badge/Windows_Server_2012-0078D6?style=flat-square&logo=windows&logoColor=white) 
+  ![Linux Mint](https://img.shields.io/badge/Linux_Mint-3EBB8A?style=flat-square&logo=linuxmint&logoColor=white) 
+  ![Puppet](https://img.shields.io/badge/Puppet-FF5000?style=flat-square&logo=puppet&logoColor=white)
 - **Contribuições:** Automação de rotinas administrativas com Puppet Bolt e PowerShell.
 - **Detalhes Adicionais:**
   - Implementação de políticas de segurança com GPOs no Windows Server.
   - Configuração de snapshots automáticos para máquinas virtuais no VMware.
   - Migração de servidores físicos para máquinas virtuais com VMware Converter.
 
+---
+
 ### Wnet Internet Provider 🌐
 - **Descrição:** Suporte avançado para clientes de serviços de internet, hospedagem de sites e e-mails.
-- **Tecnologias Utilizadas:** Cpanel, WHM, Qmail, PostFix, Zabbix, Cacti.
+- **Tecnologias Utilizadas:** 
+  ![Cpanel](https://img.shields.io/badge/CPanel-87C1F3?style=flat-square&logo=cpanel&logoColor=white) 
+  ![WHM](https://img.shields.io/badge/WHM-008cba?style=flat-square&logo=whm&logoColor=white) 
+  ![Qmail](https://img.shields.io/badge/Qmail-4EAA1D?style=flat-square&logo=qmail&logoColor=white) 
+  ![Postfix](https://img.shields.io/badge/Postfix-4EAA1D?style=flat-square&logo=postfix&logoColor=white) 
+  ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=flat-square&logo=zabbix&logoColor=white) 
+  ![Cacti](https://img.shields.io/badge/Cacti-4EAA1D?style=flat-square&logo=cacti&logoColor=white)
 - **Contribuições:** Gerenciamento de contas de hospedagem, monitoramento de links e APs, automação de rotinas de suporte.
 - **Detalhes Adicionais:**
   - Configuração de backups incrementais para servidores de e-mail.
   - Implantação de políticas de segurança em servidores web com mod_security no Cpanel.
   - Integração de métricas de desempenho com alertas automatizados via Zabbix.
 
+---
+
 ### Grupo Agneloni (loja 26 Angeloni Maringá) 🛒
 - **Descrição:** Gestão de rede de dados e voz em grande escala, incluindo monitoramento via Zabbix e suporte técnico para CFTV.
-- **Tecnologias Utilizadas:** Cisco 2960, Cat5E, Zabbix.
+- **Tecnologias Utilizadas:** 
+  ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=flat-square&logo=zabbix&logoColor=white)
 - **Contribuições:** Configuração de rede física e lógica, suporte para sistemas de vendas baseados em PDV Linux.
 - **Detalhes Adicionais:**
   - Implementação de VLANs para segmentação de rede de dados e voz.
   - Configuração de políticas de QoS para otimização do tráfego de rede.
 
+---
+
 ### Coca Cola FEMSA - Hewlett Packard Enterprise (HPE) 🥤
 - **Descrição:** Suporte técnico em ambiente corporativo Windows 7 Enterprise e Windows Server 2008/2012, incluindo suporte para videoconferências CISCO SX20.
-- **Tecnologias Utilizadas:** Windows 7 Enterprise, Windows Server 2008/2012, Cisco SX20.
+- **Tecnologias Utilizadas:** 
+  ![Windows 7](https://img.shields.io/badge/Windows_7-0078D6?style=flat-square&logo=windows&logoColor=white) 
+  ![Windows Server 2008](https://img.shields.io/badge/Windows_Server_2008-0078D6?style=flat-square&logo=windows&logoColor=white) 
+  ![Windows Server 2012](https://img.shields.io/badge/Windows_Server_2012-0078D6?style=flat-square&logo=windows&logoColor=white) 
 - **Contribuições:** Configuração de periféricos, suporte para Outlook/Exchange, gestão de videoconferências.
 - **Detalhes Adicionais:**
   - Implementação de políticas de segurança avançadas no Active Directory.
@@ -346,6 +359,3 @@ Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa 
   - Implementação de QR Codes para identificação de produtos e atualização de estoque em tempo real.
   - Desenvolvimento de módulos de entrada, consulta, atualização, exclusão e geração de relatórios.
 
-## Conclusão 🎯
-
-Este repositório reflete a trajetória de Elias dos Santos de Andrade na área de administração de servidores e infraestrutura, destacando projetos relevantes, habilidades técnicas e contribuições significativas ao longo de sua carreira. Para mais detalhes e exemplos de código, visite o GitHub de Elias dos Santos de Andrade [aqui](https://github.com/chaos4455).
