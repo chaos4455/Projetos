@@ -1,8 +1,68 @@
 # Elias dos Santos de Andrade - Projetos Técnicos 🖥️ 🛠️
-
 ## Visão Geral 🌐
 
-Este repositório documenta uma seleção de projetos técnicos significativos ao longo da carreira de Elias dos Santos de Andrade, com foco na administração avançada de servidores e infraestrutura.
+Este repositório documenta não apenas uma seleção de projetos técnicos significativos, mas também a trajetória de Elias dos Santos de Andrade, um apaixonado por tecnologia e inovação, com **14 anos de experiência** no setor de TI. Esta é a minha história, uma jornada repleta de desafios, conquistas e aprendizado contínuo.
+
+---
+
+### 🛠️ A Jornada Começa
+
+Minha trajetória na tecnologia teve início em empresas locais, onde tive a oportunidade de entrar no mundo do **suporte técnico**. O desafio de resolver problemas cotidianos me proporcionou um sólido entendimento das necessidades dos usuários e da importância de um suporte técnico eficaz. 
+
+![Início da Carreira](https://img.shields.io/badge/In%C3%ADcio_da_Carreira-2009-lightgrey)
+
+### 🌟 Ascensão na Wnet
+
+Oportunidades surgiram e, em seguida, fui para a **Wnet**, que se destacou como a maior empresa de internet em Maringá. Aqui, o verdadeiro aprendizado começou! A cada desafio, fui aprimorando minhas habilidades em **gestão de servidores**, **configuração de redes** e **suporte a clientes**.
+
+![Experiência na Wnet](https://img.shields.io/badge/Experi%C3%AAncia_Wnet-3%20anos-green)
+
+### 🚀 Avanços em Grandes Corporações
+
+- **Gol Linhas Aéreas**: A experiência na **Gol** como **Analista de TI** foi transformadora. Trabalhar em um ambiente corporativo dinâmico me fez evoluir, aprimorando minhas habilidades em suporte técnico de **nível 2** e em gerenciamento de infraestrutura. A sensação de contribuir para a operação de uma das maiores companhias aéreas do Brasil foi indescritível! 
+
+![Gol Linhas Aéreas](https://img.shields.io/badge/Gol_Linhas_A%C3%A9reas-Experi%C3%AAncia%20Transformadora-blue)
+
+- **Coca-Cola FEMSA**: No meu papel como **Field Analyst** na **Coca-Cola**, tive a oportunidade de integrar tecnologias avançadas e suportar um ambiente corporativo onde a comunicação e a colaboração eram essenciais. Gerenciar videoconferências e garantir que todos os sistemas funcionassem perfeitamente era um desafio, mas uma experiência gratificante.
+
+![Coca-Cola FEMSA](https://img.shields.io/badge/CocaCola_FEMSA-Auxilio%20em%20Comunica%C3%A7%C3%A3o-blueviolet)
+
+### 🔄 Transição para a Medicinal
+
+Após anos de aprendizado e desafios, ingressei na **Medicinal** como **Administrador de Redes**. Essa fase foi crucial, pois trabalhei na implementação de soluções de rede que garantiram eficiência e segurança. A migração para o mundo do **DevOps** começou aqui, onde comecei a integrar práticas ágeis e automação em nossas operações.
+
+![Medicinal](https://img.shields.io/badge/Medicinal-Migra%C3%A7%C3%A3o%20para%20DevOps-orange)
+
+### 🚀 Transformação em DevOps
+
+Com a mudança para **DevOps**, abracei a responsabilidade de transformar nossos processos e torná-los mais eficientes. Participei de projetos inovadores que impulsionaram a automação e a agilidade, sempre buscando as melhores práticas e novas tecnologias para garantir o sucesso da equipe.
+
+![DevOps](https://img.shields.io/badge/DevOps-Transforma%C3%A7%C3%A3o%20de%20Processos-green)
+
+### 📚 Aprendizado Contínuo
+
+Meu compromisso com o **aprendizado contínuo** se reflete na participação em **mais de 100 treinamentos** ao longo da minha carreira. Busco constantemente expandir meu conhecimento em áreas como **aprendizado de máquina** e **inteligência artificial**, sempre com o objetivo de trazer inovação e valor às organizações em que atuo.
+
+![Treinamentos](https://img.shields.io/badge/Treinamentos-100%2B-brightgreen)
+![Aprendizado de Máquina](https://img.shields.io/badge/Aprendizado_de_M%C3%A1quina-yellow)
+
+---
+
+### 🌍 O que Busco Hoje
+
+Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutura, DevOps, suporte ou projetos de inovação. Meu objetivo é aplicar toda a experiência adquirida e as habilidades desenvolvidas para impactar positivamente os resultados das empresas e contribuir para o avanço tecnológico.
+
+![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
+
+### 🏆 Minha Identidade Profissional
+
+Minha identidade profissional é marcada pela **paixão** por tecnologia e pela determinação em alcançar a excelência. Acredito que cada desafio enfrentado ao longo dos anos me tornou mais forte e preparado para os próximos passos da minha carreira.
+
+![Identidade Profissional](https://img.shields.io/badge/Identidade_Profissional-Paix%C3%A3o%20por%20Tecnologia-blue)
+
+---
+
+Este repositório é uma representação não apenas de projetos, mas da minha **jornada** na TI. Cada badge e cada experiência refletem meu compromisso com a inovação e o aprendizado contínuo. Estou animado para o que vem a seguir!
 
 ## Informações de Contato 📞 📧 🏠
 
