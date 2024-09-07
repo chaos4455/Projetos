@@ -430,7 +430,7 @@ Minha identidade profissional é marcada pela **paixão** por tecnologia e pela 
 
 ---
 
-### CONFIDENCIAL - COMÉRCIO, SAÚDE E BEM ESTAR 🏥
+### Medicinal farmácia e manipulação - COMÉRCIO, SAÚDE E BEM ESTAR 🏥
 - **Descrição:** Administração de redes Windows e Linux em ambiente virtualizado VMware.
 - **Tecnologias Utilizadas:** 
   ![VMware](https://img.shields.io/badge/VMware-60A8F6?style=flat-square&logo=vmware&logoColor=white) 
