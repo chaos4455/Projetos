@@ -13,11 +13,15 @@ Minha trajetória no mundo da tecnologia começou em **2009**, quando ingressei 
 
 ![Início da Carreira](https://img.shields.io/badge/In%C3%ADcio_da_Carreira-2009-lightgrey)
 
+---
+
 ### 🌟 Ascensão na Wnet
 
 Depois de um ano em suporte, fui contratado pela **Wnet**, a maior provedora de internet de Maringá. Esta fase foi fundamental para meu crescimento profissional, onde passei **3 anos** aprimorando habilidades em **gestão de servidores**, **configuração de redes** e **suporte a clientes**. O ambiente era dinâmico, e pude trabalhar com tecnologia de ponta, resolvendo problemas complexos e implementando soluções que impactaram diretamente a experiência dos usuários.
 
 ![Experiência na Wnet](https://img.shields.io/badge/Experi%C3%AAncia_Wnet-3%20anos-green)
+
+---
 
 ### 🚀 Avanços em Grandes Corporações
 
@@ -27,11 +31,15 @@ Minha experiência na **Gol Linhas Aéreas** como **Analista de TI** foi transfo
 
 ![Gol Linhas Aéreas](https://img.shields.io/badge/Gol_Linhas_A%C3%A9reas-Experi%C3%AAncia%20Transformadora-blue)
 
+---
+
 #### 🥤 Coca-Cola FEMSA
 
 Após minha passagem pela Gol, ingressei na **Coca-Cola FEMSA** como **Field Analyst**. Meu trabalho envolveu a integração de tecnologias avançadas em um ambiente corporativo onde a comunicação e colaboração eram essenciais. Gerenciar videoconferências e garantir o funcionamento dos sistemas de comunicação era um desafio diário. A sensação de garantir que os colaboradores tivessem as ferramentas certas para se comunicarem efetivamente foi extremamente gratificante.
 
 ![Coca-Cola FEMSA](https://img.shields.io/badge/CocaCola_FEMSA-Auxilio%20em%20Comunica%C3%A7%C3%A3o-blueviolet)
+
+---
 
 ### 🔄 Transição para a Medicinal
 
@@ -39,11 +47,15 @@ Após anos de aprendizado e desafios, entrei na **Medicinal** como **Administrad
 
 ![Medicinal](https://img.shields.io/badge/Medicinal-Migra%C3%A7%C3%A3o%20para%20DevOps-orange)
 
+---
+
 ### 🚀 Transformação em DevOps
 
 Na minha nova função em **DevOps**, abracei a responsabilidade de transformar nossos processos operacionais. Trabalhei em projetos inovadores que impulsionaram a automação e a agilidade na equipe. A busca constante por melhores práticas e novas tecnologias tornou-se parte da minha rotina, permitindo que eu liderasse a implementação de soluções que economizaram tempo e recursos significativos para a empresa.
 
 ![DevOps](https://img.shields.io/badge/DevOps-Transforma%C3%A7%C3%A3o%20de%20Processos-green)
+
+---
 
 ### 📚 Aprendizado Contínuo
 
@@ -60,6 +72,8 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 ![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
 
+---
+
 ### 🏆 Minha Identidade Profissional
 
 Minha identidade profissional é marcada pela **paixão** por tecnologia e pela determinação em alcançar a excelência. Cada desafio enfrentado ao longo da minha carreira me fortaleceu e me preparou para os próximos passos. Acredito que a tecnologia tem o poder de transformar vidas e estou comprometido em ser parte dessa transformação.
@@ -68,11 +82,58 @@ Minha identidade profissional é marcada pela **paixão** por tecnologia e pela 
 
 ---
 
-Esta narrativa é uma representação não apenas de um currículo, mas da minha trajetória de crescimento e aprendizado na área de TI. Estou animado para o futuro e aberto a novas conexões e oportunidades!
+### 🔑 Habilidades Desenvolvidas
+
+- **Suporte Técnico**: 🛠️
+- **Gestão de Servidores**: 💻
+- **Configuração de Redes**: 🌐
+- **Suporte a Clientes**: 📞
+- **Gerenciamento de Infraestrutura**: ⚙️
+- **Automação de Processos**: 🤖
+- **Integração de Tecnologias**: 🔗
+- **Trabalho em Equipe**: 🤝
+- **Comunicação Eficaz**: 📢
+- **Resolução de Problemas**: ❓
+- **Gerenciamento de Projetos**: 📊
+- **Liderança**: 🏅
+- **Aprendizado Contínuo**: 📚
+- **Inteligência Artificial**: 🧠
+- **Aprendizado de Máquina**: 📈
+- **DevOps**: 🔄
+- **Segurança da Informação**: 🔐
+- **Documentação Técnica**: 📑
+- **Análise de Sistemas**: 📉
+- **Planejamento Estratégico**: 🎯
+- **Suporte Remoto**: 🖥️
+- **Mentoria**: 👨‍🏫
+- **Análise de Dados**: 📊
+- **Comunicação Interdepartamental**: 🔄
+- **Gerenciamento de Tempo**: ⏰
 
 ---
 
-Este repositório é uma representação não apenas de projetos, mas da minha **jornada** na TI. Cada badge e cada experiência refletem meu compromisso com a inovação e o aprendizado contínuo. Estou animado para o que vem a seguir!
+### 🚀 Impactos e Contribuições
+
+- **Melhoria da Satisfação do Cliente**: 😊
+- **Redução de Custos Operacionais**: 💰
+- **Aumento da Eficiência**: ⚡
+- **Desenvolvimento de Processos Ágeis**: 🏃‍♂️
+- **Implantação de Sistemas Inovadores**: 🌟
+- **Automação de Tarefas Repetitivas**: 🔄
+- **Suporte a Iniciativas Sustentáveis**: 🌱
+- **Participação em Projetos de Grande Escala**: 🌍
+- **Iniciativas de Treinamento para Equipe**: 🎓
+- **Mentoria de Novos Colaboradores**: 🤝
+- **Criação de Documentação Técnica Acessível**: 📚
+- **Estabelecimento de Práticas de Melhorias Contínuas**: 📈
+
+--- 
+
+### 🔄 Em Busca de Novos Desafios
+
+Estou animado para enfrentar novos desafios e contribuir com a minha experiência e paixão por tecnologia em uma nova organização. Estou à disposição para discutir oportunidades que possam se alinhar com meus objetivos e a visão da empresa.
+
+![Desafios](https://img.shields.io/badge/Desafios-Em%20Busca-yellow)
 
 ## Informações de Contato 📞 📧 🏠
 
