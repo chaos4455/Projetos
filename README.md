@@ -33,6 +33,60 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 ![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
 
+## Habilidades e Qualificações 🔧 📊
+
+- **Administração de Redes:** Windows Server, Linux (Ubuntu), VMware, Hyper-V.
+- **Virtualização e Cloud Computing:** AWS, Docker, Virtualbox, VPS (Kamatera, Digital Ocean).
+- **Ferramentas de Produtividade:** Zabbix, Trello, GitLab, Dropbox, Notion.
+
+## Experiência Relevante recente 2019/2023 e Outubro de 2023 até setembro de 2024 🌟
+
+🔹 **Analista de Infraestrutura Linux e VMware para Ferramentas DevOps (GitLab)** 🐧
+- **Projeto Freelance - Maringá (02/2024 - 03/2024)**
+- Atualização e replicação de servidores, GitLab e RedMine em CentOS 7.
+- **Detalhes Adicionais:**
+  - Integração de GitLab com ferramentas de CI/CD para automação de pipelines.
+  - Configuração de monitoramento de performance com Grafana.
+
+🔹 **Consultor de Infraestrutura Especialista Windows Server** 🪛
+- **Projeto Freelance - Maringá (01/2024 - 02/2024)**
+- Melhoria em ambientes Windows Server, migração de sistemas, auditoria de infraestrutura, implantação de políticas de GPO.
+- **Detalhes Adicionais:**
+  - Implementação de scripts PowerShell para automação de tarefas administrativas.
+  - Configuração de políticas de segurança avançadas com Active Directory.
+
+🔹 **Especialista em Migração de Ambientes de Containers** 📦
+- **Projeto Freelance - Maringá (04/2024 - 05/2024)**
+- Migração de ambiente de containers e mais de 150 micro serviços, principalmente em Node.js. Migração de ambiente Docker Swarm com Swarmpit para ambiente Kubernetes na Digital Ocean. Uso de Argo CD e GitOps para automações e ações de build de imagem. Deploy direto no Argo CD via GitHub, implementando entrega contínua.
+- **Detalhes Adicionais:**
+  - Implementação de políticas de rollback automatizado para deploys falhos.
+  - Configuração de alertas e monitoramento de saúde do cluster Kubernetes.
+
+## Administração Avançada de Servidores 2019 - 2023  💻
+
+🖥 **Windows e Linux:**
+- Administração avançada dos principais recursos e funções em ambiente de servidor, incluindo Ubuntu Server, Debian, CentOS, Oracle Linux, Red Hat.
+- Documentação, replicação, balanceamento de carga, e escalabilidade automatizada.
+- Implantação e Deploy de ambientes inteiros do zero (on-premise e cloud), do projeto à instalação, configuração, gestão e monitoramento.
+- Land zone setup e provisionamento seguindo as melhores práticas de segurança, firewalls, VPNs, User Access Management, políticas de segurança, etc.
+- Documentação e scripting, criação de documento, aplicando conhecimentos e práticas de Configuration Management Database, gerando documentação para posterior replicação, correções, atualizações, etc., de todo procedimento feito ou realizado, somado com práticas de Infrastructure as Code (IAC), documentação de templates e configurações como código, em repositório GIT.
+- **Detalhes Adicionais:**
+  - Implementação de políticas de backup com Veeam Backup & Replication para proteção de dados críticos.
+  - Configuração de clusters de alta disponibilidade para aplicações web com balanceamento de carga.
+
+☁️ **Cloud Computing e Containers:**
+- Google Cloud Platform (GCP): VPC e GKE (Google Kubernetes Engine) para ambientes de container, Docker e Kubernetes.
+- AWS EC2, EKS (Elastic Kubernetes Services), Digital Ocean DOKS: Deploy e gestão de containers e micro serviços.
+- Outros Providers: OVH, Kamatera, Hostinger.
+- **Detalhes Adicionais:**
+  - Implementação de políticas de segurança em ambientes cloud com AWS Security Groups e IAM Roles.
+  - Configuração de pipelines de CI/CD com integração contínua e entrega contínua para aplicações distribuídas.
+
+🖥 **Virtualização:**
+- VMware Workstation, ESXi, Virt-manager (QEMU+KVM), Oracle VirtualBox, Hyper-V.
+- **Detalhes Adicionais:**
+  - Implementação de políticas de isolamento de recursos em ambientes virtualizados com VMware vSphere.
+  - Administração de snapshots e templates para rápida implantação de novos servidores virtuais.
 ---
 ## 🌟 Minha História Profissional
 
@@ -429,82 +483,4 @@ Minha identidade profissional é marcada pela **paixão** por tecnologia e pela 
 - **Detalhes Adicionais:**
   - Implementação de políticas de segurança avançadas no Active Directory.
   - Administração de servidores de terminal para acesso remoto seguro.
-
-## Habilidades e Qualificações 🔧 📊
-
-- **Administração de Redes:** Windows Server, Linux (Ubuntu), VMware, Hyper-V.
-- **Virtualização e Cloud Computing:** AWS, Docker, Virtualbox, VPS (Kamatera, Digital Ocean).
-- **Ferramentas de Produtividade:** Zabbix, Trello, GitLab, Dropbox, Notion.
-
-## Experiência Adicional 🌟
-
-🔹 **Analista de Infraestrutura Linux e VMware para Ferramentas DevOps (GitLab)** 🐧
-- **Projeto Freelance - Maringá (02/2024 - 03/2024)**
-- Atualização e replicação de servidores, GitLab e RedMine em CentOS 7.
-- **Detalhes Adicionais:**
-  - Integração de GitLab com ferramentas de CI/CD para automação de pipelines.
-  - Configuração de monitoramento de performance com Grafana.
-
-🔹 **Consultor de Infraestrutura Especialista Windows Server** 🪛
-- **Projeto Freelance - Maringá (01/2024 - 02/2024)**
-- Melhoria em ambientes Windows Server, migração de sistemas, auditoria de infraestrutura, implantação de políticas de GPO.
-- **Detalhes Adicionais:**
-  - Implementação de scripts PowerShell para automação de tarefas administrativas.
-  - Configuração de políticas de segurança avançadas com Active Directory.
-
-🔹 **Especialista em Migração de Ambientes de Containers** 📦
-- **Projeto Freelance - Maringá (04/2024 - 05/2024)**
-- Migração de ambiente de containers e mais de 150 micro serviços, principalmente em Node.js. Migração de ambiente Docker Swarm com Swarmpit para ambiente Kubernetes na Digital Ocean. Uso de Argo CD e GitOps para automações e ações de build de imagem. Deploy direto no Argo CD via GitHub, implementando entrega contínua.
-- **Detalhes Adicionais:**
-  - Implementação de políticas de rollback automatizado para deploys falhos.
-  - Configuração de alertas e monitoramento de saúde do cluster Kubernetes.
-
-## Administração Avançada de Servidores 💻
-
-🖥 **Windows e Linux:**
-- Administração avançada dos principais recursos e funções em ambiente de servidor, incluindo Ubuntu Server, Debian, CentOS, Oracle Linux, Red Hat.
-- Documentação, replicação, balanceamento de carga, e escalabilidade automatizada.
-- Implantação e Deploy de ambientes inteiros do zero (on-premise e cloud), do projeto à instalação, configuração, gestão e monitoramento.
-- Land zone setup e provisionamento seguindo as melhores práticas de segurança, firewalls, VPNs, User Access Management, políticas de segurança, etc.
-- Documentação e scripting, criação de documento, aplicando conhecimentos e práticas de Configuration Management Database, gerando documentação para posterior replicação, correções, atualizações, etc., de todo procedimento feito ou realizado, somado com práticas de Infrastructure as Code (IAC), documentação de templates e configurações como código, em repositório GIT.
-- **Detalhes Adicionais:**
-  - Implementação de políticas de backup com Veeam Backup & Replication para proteção de dados críticos.
-  - Configuração de clusters de alta disponibilidade para aplicações web com balanceamento de carga.
-
-☁️ **Cloud Computing e Containers:**
-- Google Cloud Platform (GCP): VPC e GKE (Google Kubernetes Engine) para ambientes de container, Docker e Kubernetes.
-- AWS EC2, EKS (Elastic Kubernetes Services), Digital Ocean DOKS: Deploy e gestão de containers e micro serviços.
-- Outros Providers: OVH, Kamatera, Hostinger.
-- **Detalhes Adicionais:**
-  - Implementação de políticas de segurança em ambientes cloud com AWS Security Groups e IAM Roles.
-  - Configuração de pipelines de CI/CD com integração contínua e entrega contínua para aplicações distribuídas.
-
-🖥 **Virtualização:**
-- VMware Workstation, ESXi, Virt-manager (QEMU+KVM), Oracle VirtualBox, Hyper-V.
-- **Detalhes Adicionais:**
-  - Implementação de políticas de isolamento de recursos em ambientes virtualizados com VMware vSphere.
-  - Administração de snapshots e templates para rápida implantação de novos servidores virtuais.
-
-## Projetos Pessoais e Contribuições 🌟
-
-🔹 **Gerador de Mensagens de Aviso de Demissão e Dispensa**
-- **Descrição:** Desenvolvimento de um script Python para geração automática de mensagens formais de demissão e dispensa de funcionários.
-- **Tecnologias Utilizadas:** Python, SQLite, Pandas, Streamlit.
-- **Detalhes Adicionais:**
-  - Criação de interface gráfica com Streamlit para inserção de dados e geração de documentos PDF personalizados.
-  - Implementação de lógica de preenchimento automático com base em templates predefinidos.
-
-🔹 **Dashboard de Gerenciamento de Manutenção Industrial**
-- **Descrição:** Desenvolvimento de um dashboard interativo para gestão e controle de manutenção industrial.
-- **Tecnologias Utilizadas:** Python, Pandas, Plotly, Dash.
-- **Detalhes Adicionais:**
-  - Integração de gráficos dinâmicos com Plotly para visualização de dados de manutenção preventiva e corretiva.
-  - Implementação de filtros e drill-downs para análise detalhada de indicadores de desempenho.
-
-🔹 **Aplicativo Web para Controle de Inventário em Farmácia de Manipulação**
-- **Descrição:** Desenvolvimento de um aplicativo web para controle de estoque e prevenção de perdas em farmácia de manipulação.
-- **Tecnologias Utilizadas:** Python, Streamlit, SQLite, QR Code.
-- **Detalhes Adicionais:**
-  - Implementação de QR Codes para identificação de produtos e atualização de estoque em tempo real.
-  - Desenvolvimento de módulos de entrada, consulta, atualização, exclusão e geração de relatórios.
 
