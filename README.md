@@ -25,12 +25,36 @@ R$ 3.500,00 - R$ 4.100,00 CLT
 Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
 
 
-  # 🖥️ **Infraestrutura e Servidores**
+# 🖥️ **Infraestrutura e Servidores**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0089D6?style=flat-square&logo=microsoft&logoColor=white)
-![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Terminal Services](https://img.shields.io/badge/Terminal_Services-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+## 🔧 **Principais Tecnologias e Habilidades:**
+- **Distribuições Linux:**
+  - **Ubuntu:** Experiência desde as versões 10, 14, 16, 18, 20 e 22
+  - **Debian:** Versões 7, 8, 9, 10 e 11
+  - **CentOS:** Versões 7 e 8
+
+- **Gerenciamento e Configuração:**
+  - Acesso remoto (SSH, VNC)
+  - Orquestração de configuração (Ansible, Puppet)
+  - Gerenciamento de firewall (UFW)
+
+- **Serviços e Funções em Windows Server:**
+  - **Active Directory:** Configuração e gerenciamento de GPOs
+  - **DNS:** Configuração de zonas e resolução de nomes
+  - **DHCP:** Configuração e gerenciamento de escopos
+  - **File Server:** Configuração de compartilhamento e permissões
+  - **Terminal Services:** Implementação e gerenciamento
+  - **PowerShell:** Scripting e automação de tarefas
+
+## 🛠️ **Habilidades de Scripting e Automação:**
+- **Bash Scripting:** Automação de tarefas no Linux
+- **PowerShell:** Scripting para gerenciamento em Windows
+
 
 ---
 
@@ -72,6 +96,17 @@ Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa 
 ---
 
 # ☁️ **Cloud e Virtualização**
+### Conhecimentos Avançados
+- **Estrutura de Cloud**: Experiência robusta em configuração e gerenciamento de ambientes de cloud em múltiplas plataformas.
+- **VPS (Virtual Private Server)**: Capacidade de implementar e gerenciar servidores virtuais para otimização de recursos.
+- **Network**: Conhecimento sólido em redes, permitindo a integração e segurança de sistemas na nuvem, independentemente da plataforma.
+
+### Conhecimentos Intermediários/avançados
+![OVH](https://img.shields.io/badge/OVH-3A3A3A?style=flat-square&logo=ovh&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-00A9F4?style=flat-square&logo=digitalocean&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-FF7A00?style=flat-square&logo=hostinger&logoColor=white)
+
+### Conhecimentos Básicos/intermediarios
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
@@ -80,6 +115,9 @@ Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa 
 
 # 🔧 **Ferramentas de Gestão e Monitoramento**
 ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![OTRS](https://img.shields.io/badge/OTRS-0071B5?style=flat-square&logo=otrs&logoColor=white)
 
 ---
 
