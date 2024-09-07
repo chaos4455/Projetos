@@ -192,16 +192,14 @@ _Março 2010 - Agosto 2011_
 
 - **Suporte Técnico**: 🛠️
 - **Gestão de Servidores**: 💻
-- **Configuração de Redes**: 🌐
+- **Configuração de Redes de baixa e média complexidade**: 🌐
 - **Suporte a Clientes**: 📞
 - **Gerenciamento de Infraestrutura**: ⚙️
 - **Automação de Processos**: 🤖
 - **Integração de Tecnologias**: 🔗
 - **Trabalho em Equipe**: 🤝
-- **Comunicação Eficaz**: 📢
 - **Resolução de Problemas**: ❓
 - **Gerenciamento de Projetos**: 📊
-- **Liderança**: 🏅
 - **Aprendizado Contínuo**: 📚
 - **Inteligência Artificial**: 🧠
 - **Aprendizado de Máquina**: 📈
@@ -211,7 +209,6 @@ _Março 2010 - Agosto 2011_
 - **Análise de Sistemas**: 📉
 - **Planejamento Estratégico**: 🎯
 - **Suporte Remoto**: 🖥️
-- **Mentoria**: 👨‍🏫
 - **Análise de Dados**: 📊
 - **Comunicação Interdepartamental**: 🔄
 - **Gerenciamento de Tempo**: ⏰
@@ -226,10 +223,7 @@ _Março 2010 - Agosto 2011_
 - **Desenvolvimento de Processos Ágeis**: 🏃‍♂️
 - **Implantação de Sistemas Inovadores**: 🌟
 - **Automação de Tarefas Repetitivas**: 🔄
-- **Suporte a Iniciativas Sustentáveis**: 🌱
 - **Participação em Projetos de Grande Escala**: 🌍
-- **Iniciativas de Treinamento para Equipe**: 🎓
-- **Mentoria de Novos Colaboradores**: 🤝
 - **Criação de Documentação Técnica Acessível**: 📚
 - **Estabelecimento de Práticas de Melhorias Contínuas**: 📈
 
