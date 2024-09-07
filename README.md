@@ -1,5 +1,4 @@
-# Elias dos Santos de Andrade - Projetos Técnicos 🖥️ 🛠️
-## Visão Geral 🌐
+# Elias dos Santos de Andrade - Projetos Técnicos e trajetória profissional 2010-2024🖥️ 🛠️
 
 ### 🔄 Em Busca de Novos Desafios
 
