@@ -14,7 +14,7 @@ Este repositório documenta uma seleção de projetos técnicos significativos a
 ## 🔗 Portfólios e Certificações
 - **LinkedIn:** [linkedin.com/in/itilmgf](https://linkedin.com/in/itilmgf)
 - **GitHub - Portfólio Infraestrutura e Servidores:** [github.com/chaos4455/Certifica-es](https://github.com/chaos4455/Certifica-es)
-- **Possuo mais de 100 treinamentos nas principais tecnologias em treinamentos realizados dentre 2013 e 2024 **
+- **Possuo mais de 100 treinamentos nas principais tecnologias em treinamentos realizados dentre 2013 e 2024**
 - **Treinamento ITIL V3 FOUNDATION**
 - **Treinamento ITIL OSA**
 
