@@ -92,60 +92,99 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 ### 🛠️ A Jornada Começa
 
-Minha trajetória no mundo da tecnologia começou em **2009**, quando ingressei em empresas locais como suporte técnico. O desafio de resolver problemas cotidianos me permitiu desenvolver um entendimento profundo das necessidades dos usuários e da importância de um suporte técnico eficaz. A cada chamado atendido, aprendi não apenas a solucionar problemas, mas também a ouvir e entender as demandas dos clientes.
+Minha trajetória no mundo da tecnologia começou em **2010**, quando ingressei na wnet a maior empresa de tecnologia de servidores e internet à època, como suporte técnico. O desafio de resolver problemas cotidianos do portfolio de serviços para as principais empresas de maringá da época. O que me permitiu desenvolver um entendimento profundo das necessidades dos usuários e da importância de um suporte técnico eficaz. A cada chamado atendido, aprendi não apenas a solucionar problemas, mas também a ouvir e entender as demandas dos clientes.
 
 ![Início da Carreira](https://img.shields.io/badge/In%C3%ADcio_da_Carreira-2009-lightgrey)
 
-### 🌟 Ascensão na Wnet
 
-Depois de um ano em suporte, fui contratado pela **Wnet**, a maior provedora de internet de Maringá. Esta fase foi fundamental para meu crescimento profissional, onde passei **3 anos** aprimorando habilidades em **gestão de servidores**, **configuração de redes** e **suporte a clientes**. O ambiente era dinâmico, e pude trabalhar com tecnologia de ponta, resolvendo problemas complexos e implementando soluções que impactaram diretamente a experiência dos usuários.
 
-![Experiência na Wnet](https://img.shields.io/badge/Experi%C3%AAncia_Wnet-3%20anos-green)
+## 1. **Consultor de Infraestrutura Especialista Windows Server - Terminal Server - PowerShell**  
+**Confidencial**  
+_Fevereiro 2024 - Março 2024_  
+🔍 **Descrição do Projeto:** Automação e gestão de ambiente Windows Server 2008, 2012 e 2016 usando PowerShell. Migração de sistemas e serviços, auditoria de infraestrutura e implantação de políticas de GPO.  
+💡 **Tecnologias e Ferramentas:** ![PowerShell](https://img.shields.io/badge/PowerShell-<COLOR>??) ![Windows Server 2008](https://img.shields.io/badge/Windows_Server_2008-<COLOR>??) ![Windows Server 2012](https://img.shields.io/badge/Windows_Server_2012-<COLOR>??) ![Windows Server 2016](https://img.shields.io/badge/Windows_Server_2016-<COLOR>??) ![Active Directory](https://img.shields.io/badge/Active_Directory-<COLOR>??)  
+⚠️ **Problemas e Dores:** Desafios com a automação de políticas e a integração de aplicações legadas.  
+💰 **Valor:** Alta eficiência na gestão e operação de mais de 200 servidores.  
+🛠️ **Empresas:** [Confidencial](https://www.linkedin.com/in/itilmgf)  
 
-### 🚀 Avanços em Grandes Corporações
+---
 
-#### ✈️ Gol Linhas Aéreas
+## 2. **Analista de Infraestrutura Linux e VMware**  
+**Atak Sistemas**  
+_Fevereiro 2024_  
+🔍 **Descrição do Projeto:** Atualização do GitLab e RedMine em ambiente CentOS. Criação de ambientes replicados e documentação de procedimentos.  
+💡 **Tecnologias e Ferramentas:** ![GitLab](https://img.shields.io/badge/GitLab-<COLOR>??) ![CentOS](https://img.shields.io/badge/CentOS-<COLOR>??) ![RedMine](https://img.shields.io/badge/RedMine-<COLOR>??) ![Docker](https://img.shields.io/badge/Docker-<COLOR>??)  
+⚠️ **Problemas e Dores:** Necessidade de replicar ambientes de produção para teste sem impactar o sistema real.  
+💰 **Valor:** Sucesso na atualização com mínima interrupção no ambiente de produção.  
+🛠️ **Empresas:** [Atak Sistemas](https://www.linkedin.com/in/itilmgf)  
 
-Minha experiência na **Gol Linhas Aéreas** como **Analista de TI** foi transformadora. Nesse papel, trabalhei em um ambiente de alta pressão, onde precisei gerenciar sistemas críticos que impactavam diretamente a operação de voos. A cada incidente, aprimorava minhas habilidades em suporte técnico de **nível 2** e no gerenciamento de infraestrutura. Contribuir para a operação de uma das maiores companhias aéreas do Brasil foi uma experiência indescritível, onde aprendi sobre a importância da agilidade e eficiência.
+---
 
-![Gol Linhas Aéreas](https://img.shields.io/badge/Gol_Linhas_A%C3%A9reas-Experi%C3%AAncia%20Transformadora-blue)
+## 3. **Administrador de Redes e Infraestrutura | Especialista em Alta Disponibilidade e Performance**  
+**Farmácia de Manipulação**  
+_Fevereiro 2019 - Outubro 2023_  
+🔍 **Descrição do Projeto:** Administração de redes Windows Server e VMware. Implementação de Active Directory, GPO, e automação de processos críticos.  
+💡 **Tecnologias e Ferramentas:** ![Windows Server 2012](https://img.shields.io/badge/Windows_Server_2012-<COLOR>??) ![VMware](https://img.shields.io/badge/VMware-<COLOR>??) ![Active Directory](https://img.shields.io/badge/Active_Directory-<COLOR>??) ![Puppet Bolt](https://img.shields.io/badge/Puppet_Bolt-<COLOR>??)  
+⚠️ **Problemas e Dores:** Desafios na automação de processos e recuperação de desastres.  
+💰 **Valor:** Melhorias significativas na eficiência e estabilidade do ambiente de TI.  
+🛠️ **Empresas:** [Farmácia de Manipulação](https://www.linkedin.com/in/itilmgf)  
 
-#### 🥤 Coca-Cola FEMSA
+---
 
-Após minha passagem pela Gol, ingressei na **Coca-Cola FEMSA** como **Field Analyst**. Meu trabalho envolveu a integração de tecnologias avançadas em um ambiente corporativo onde a comunicação e colaboração eram essenciais. Gerenciar videoconferências e garantir o funcionamento dos sistemas de comunicação era um desafio diário. A sensação de garantir que os colaboradores tivessem as ferramentas certas para se comunicarem efetivamente foi extremamente gratificante.
+## 4. **Analista de Suporte e Field Services | Especialista em Infraestrutura de Redes**  
+**Coca-Cola FEMSA**  
+_Dezembro 2016 - Agosto 2017_  
+🔍 **Descrição do Projeto:** Suporte técnico para ambientes Windows e configuração de sistemas operacionais. Gerenciamento de videoconferências e backups.  
+💡 **Tecnologias e Ferramentas:** ![Windows 7 Enterprise](https://img.shields.io/badge/Windows_7_Enterprise-<COLOR>??) ![Active Directory](https://img.shields.io/badge/Active_Directory-<COLOR>??) ![Cisco SX20](https://img.shields.io/badge/Cisco_SX20-<COLOR>??)  
+⚠️ **Problemas e Dores:** Gerenciamento de múltiplos chamados e suporte técnico para equipamentos variados.  
+💰 **Valor:** Garantia da continuidade das operações e suporte eficiente para a equipe.  
+🛠️ **Empresas:** [Coca-Cola FEMSA](https://www.linkedin.com/in/itilmgf)  
 
-![Coca-Cola FEMSA](https://img.shields.io/badge/CocaCola_FEMSA-Auxilio%20em%20Comunica%C3%A7%C3%A3o-blueviolet)
+---
 
-### 🔄 Transição para a Medicinal
+## 5. **Analista de Redes e Suporte Técnico Pleno | Especialista em Automação e Monitoramento**  
+**Supermercados Angeloni Maringá**  
+_Novembro 2015 - Julho 2016_  
+🔍 **Descrição do Projeto:** Gestão de ativos de rede e automação em loja. Monitoramento proativo e suporte técnico para sistemas e redes.  
+💡 **Tecnologias e Ferramentas:** ![Zabbix](https://img.shields.io/badge/Zabbix-<COLOR>??) ![Cisco 2960](https://img.shields.io/badge/Cisco_2960-<COLOR>??) ![Linux Fedora](https://img.shields.io/badge/Linux_Fedora-<COLOR>??)  
+⚠️ **Problemas e Dores:** Manutenção de sistemas e equipamentos críticos em ambiente de varejo.  
+💰 **Valor:** Operação contínua e eficiente dos sistemas da loja.  
+🛠️ **Empresas:** [Supermercados Angeloni Maringá](https://www.linkedin.com/in/itilmgf)  
 
-Após anos de aprendizado e desafios, entrei na **Medicinal** como **Administrador de Redes**. Essa fase foi crucial, pois trabalhei na implementação de soluções de rede que garantiram eficiência e segurança para a empresa. Foi aqui que comecei a transição para o mundo do **DevOps**, onde integrei práticas ágeis e automação nas operações diárias. A experiência de otimizar processos e reduzir falhas foi recompensadora e vital para o sucesso da equipe.
+---
 
-![Medicinal](https://img.shields.io/badge/Medicinal-Migra%C3%A7%C3%A3o%20para%20DevOps-orange)
+## 6. **Analista de Suporte Pleno | Especialista em Infraestrutura e Gestão de Chamados**  
+**GOL Linhas Aéreas**  
+_Fevereiro 2013 - Junho 2014_  
+🔍 **Descrição do Projeto:** Suporte técnico de nível 2, gerenciamento de chamados e desenvolvimento de CMDB. Suporte remoto 24/7.  
+💡 **Tecnologias e Ferramentas:** ![Windows Server 2008](https://img.shields.io/badge/Windows_Server_2008-<COLOR>??) ![Windows Server 2012](https://img.shields.io/badge/Windows_Server_2012-<COLOR>??) ![Dell](https://img.shields.io/badge/Dell-<COLOR>??) ![IBM](https://img.shields.io/badge/IBM-<COLOR>??)  
+⚠️ **Problemas e Dores:** Coordenação de múltiplos chamados e suporte crítico para sistemas essenciais.  
+💰 **Valor:** Melhoria na gestão de chamados e suporte técnico eficiente.  
+🛠️ **Empresas:** [GOL Linhas Aéreas](https://www.linkedin.com/in/itilmgf)  
 
-### 🚀 Transformação em DevOps
+---
 
-Na minha nova função em **DevOps**, abracei a responsabilidade de transformar nossos processos operacionais. Trabalhei em projetos inovadores que impulsionaram a automação e a agilidade na equipe. A busca constante por melhores práticas e novas tecnologias tornou-se parte da minha rotina, permitindo que eu liderasse a implementação de soluções que economizaram tempo e recursos significativos para a empresa.
+## 7. **Assistente de T.I | Especialista em Infraestrutura e Suporte de Sistemas**  
+**Associação Beneficente Bom Samaritano - Hospital Santa Rita**  
+_Novembro 2011 - Agosto 2012_  
+🔍 **Descrição do Projeto:** Suporte a infraestrutura de TI, gestão de servidores e backups. Administração de sistemas Windows e Linux.  
+💡 **Tecnologias e Ferramentas:** ![Windows Server 2003](https://img.shields.io/badge/Windows_Server_2003-<COLOR>??) ![Windows Server 2008](https://img.shields.io/badge/Windows_Server_2008-<COLOR>??) ![Ubuntu](https://img.shields.io/badge/Ubuntu-<COLOR>??) ![CentOS](https://img.shields.io/badge/CentOS-<COLOR>??)  
+⚠️ **Problemas e Dores:** Gerenciamento de crises de segurança e manutenção de sistemas críticos.  
+💰 **Valor:** Garantia da continuidade dos serviços e segurança dos dados.  
+🛠️ **Empresas:** [Associação Beneficente Bom Samaritano - Hospital Santa Rita](https://www.linkedin.com/in/itilmgf)  
 
-![DevOps](https://img.shields.io/badge/DevOps-Transforma%C3%A7%C3%A3o%20de%20Processos-green)
+---
 
-### 📚 Aprendizado Contínuo
+## 8. **Analista de Suporte Técnico | Especialista em Provedor de Internet**  
+**Wnet Internet**  
+_Março 2010 - Agosto 2011_  
+🔍 **Descrição do Projeto:** Suporte técnico para serviços de internet, administração de servidores Linux e hospedagem de sites.  
+💡 **Tecnologias e Ferramentas:** ![Linux](https://img.shields.io/badge/Linux-<COLOR>??) ![Postfix](https://img.shields.io/badge/Postfix-<COLOR>??) ![Cpanel](https://img.shields.io/badge/Cpanel-<COLOR>??) ![WHM](https://img.shields.io/badge/WHM-<COLOR>??)  
+⚠️ **Problemas e Dores:** Resolução de problemas de conectividade e administração de serviços de e-mail.  
+💰 **Valor:** Melhoria na gestão e suporte de serviços de internet.  
+🛠️ **Empresas:** [Wnet Internet](https://www.linkedin.com/in/itilmgf)  
 
-Meu compromisso com o **aprendizado contínuo** é evidente na participação em **mais de 100 treinamentos** ao longo da minha carreira. Desde workshops de **inteligência artificial** até cursos sobre **aprendizado de máquina**, busco sempre expandir meu conhecimento para trazer inovação e valor às organizações em que atuo. Acredito que a educação é um caminho sem fim, e estou sempre em busca de novas oportunidades para aprender.
-
-![Treinamentos](https://img.shields.io/badge/Treinamentos-100%2B-brightgreen)
-![Aprendizado de Máquina](https://img.shields.io/badge/Aprendizado_de_M%C3%A1quina-yellow)
-
-### 🌍 O que Busco Hoje
-
-Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutura, DevOps e projetos de inovação. Meu objetivo é aplicar toda a experiência adquirida e as habilidades desenvolvidas para impactar positivamente os resultados das empresas e contribuir para o avanço tecnológico. Estou pronto para enfrentar novos desafios e ajudar a impulsionar a transformação digital nas organizações.
-
-![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
-
-### 🏆 Minha Identidade Profissional
-
-Minha identidade profissional é marcada pela **paixão** por tecnologia e pela determinação em alcançar a excelência. Cada desafio enfrentado ao longo da minha carreira me fortaleceu e me preparou para os próximos passos. Acredito que a tecnologia tem o poder de transformar vidas e estou comprometido em ser parte dessa transformação.
-
-![Identidade Profissional](https://img.shields.io/badge/Identidade_Profissional-Paix%C3%A3o%20por%20Tecnologia-blue)
+---
 
 ---
 
