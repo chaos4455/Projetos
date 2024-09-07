@@ -1,7 +1,39 @@
 # Elias dos Santos de Andrade - Projetos Técnicos 🖥️ 🛠️
 ## Visão Geral 🌐
 
-Este repositório documenta não apenas uma seleção de projetos técnicos significativos, mas também a trajetória de Elias dos Santos de Andrade, um apaixonado por tecnologia e inovação, com **14 anos de experiência** no setor de TI. Esta é a minha história, uma jornada repleta de desafios, conquistas e aprendizado contínuo.
+### 🔄 Em Busca de Novos Desafios
+
+Estou animado para enfrentar novos desafios e contribuir com a minha experiência e paixão por tecnologia em uma nova organização. Estou à disposição para discutir oportunidades que possam se alinhar com meus objetivos e a visão da empresa.
+
+![Desafios](https://img.shields.io/badge/Desafios-Em%20Busca-yellow)
+
+## Informações de Contato 📞 📧 🏠
+
+- 🏠 **Localização:** Maringá, Paraná, Brasil
+- 📞 **Telefone:** +55 (44) 98765-4321
+- 📧 **E-mail:** elias.andrade@email.com
+- 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/eliasandrade)
+
+## 🔗 Portfólios e Certificações
+- **LinkedIn:** [linkedin.com/in/itilmgf](https://linkedin.com/in/itilmgf)
+- **GitHub - Portfólio Infraestrutura e Servidores:** [github.com/chaos4455/Certifica-es](https://github.com/chaos4455/Certifica-es)
+- **Possuo mais de 100 treinamentos nas principais tecnologias em treinamentos realizados dentre 2013 e 2024**
+- **Treinamento ITIL V3 FOUNDATION**
+- **Treinamento ITIL OSA**
+
+## 💰 Pretensão Salarial
+R$ 3.500,00 - R$ 4.100,00 CLT
+
+## 🎯 Objetivo Profissional
+Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
+
+---
+
+### 🌍 O que Busco Hoje
+
+Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutura, DevOps e projetos de inovação. Meu objetivo é aplicar toda a experiência adquirida e as habilidades desenvolvidas para impactar positivamente os resultados das empresas e contribuir para o avanço tecnológico. Estou pronto para enfrentar novos desafios e ajudar a impulsionar a transformação digital nas organizações.
+
+![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
 
 ---
 
@@ -129,32 +161,6 @@ Minha identidade profissional é marcada pela **paixão** por tecnologia e pela 
 
 --- 
 
-### 🔄 Em Busca de Novos Desafios
-
-Estou animado para enfrentar novos desafios e contribuir com a minha experiência e paixão por tecnologia em uma nova organização. Estou à disposição para discutir oportunidades que possam se alinhar com meus objetivos e a visão da empresa.
-
-![Desafios](https://img.shields.io/badge/Desafios-Em%20Busca-yellow)
-
-## Informações de Contato 📞 📧 🏠
-
-- 🏠 **Localização:** Maringá, Paraná, Brasil
-- 📞 **Telefone:** +55 (44) 98765-4321
-- 📧 **E-mail:** elias.andrade@email.com
-- 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/eliasandrade)
-
-## 🔗 Portfólios e Certificações
-- **LinkedIn:** [linkedin.com/in/itilmgf](https://linkedin.com/in/itilmgf)
-- **GitHub - Portfólio Infraestrutura e Servidores:** [github.com/chaos4455/Certifica-es](https://github.com/chaos4455/Certifica-es)
-- **Possuo mais de 100 treinamentos nas principais tecnologias em treinamentos realizados dentre 2013 e 2024**
-- **Treinamento ITIL V3 FOUNDATION**
-- **Treinamento ITIL OSA**
-
-## 💰 Pretensão Salarial
-R$ 3.500,00 - R$ 4.100,00 CLT
-
-## 🎯 Objetivo Profissional
-Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
-
 
 # 🌟 Minha História Profissional
 
@@ -212,8 +218,6 @@ Meu compromisso com o **aprendizado contínuo** é evidente na participação em
 - **Windows Desktop:** Iniciei minha jornada com computadores na era do **Windows 95**, evoluindo profissionalmente com **Windows XP** em **2010** e chegando até o **Windows 11**.
 - **Windows Server:** Desde **2003**, passei por todas as versões, incluindo a última **2022**. Meu trabalho abrangeu desde a instalação até a administração de servidores.
 
-![Windows 95](https://img.shields.io/badge/Windows_95-1B9E2E?style=flat-square&logo=windows&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows_XP-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
@@ -248,20 +252,6 @@ Meu compromisso com o **aprendizado contínuo** é evidente na participação em
 
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
----
-
-### 🌍 O que Busco Hoje
-
-Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutura, DevOps e projetos de inovação. Meu objetivo é aplicar toda a experiência adquirida e as habilidades desenvolvidas para impactar positivamente os resultados das empresas e contribuir para o avanço tecnológico. Estou pronto para enfrentar novos desafios e ajudar a impulsionar a transformação digital nas organizações.
-
-![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
-
-### 🏆 Minha Identidade Profissional
-
-Minha identidade profissional é marcada pela **paixão** por tecnologia e pela determinação em alcançar a excelência. Cada desafio enfrentado ao longo da minha carreira me fortaleceu e me preparou para os próximos passos. Acredito que a tecnologia tem o poder de transformar vidas e estou comprometido em ser parte dessa transformação.
-
-![Identidade Profissional](https://img.shields.io/badge/Identidade_Profissional-Paix%C3%A3o%20por%20Tecnologia-blue)
 
 
 ---
