@@ -152,30 +152,50 @@ Minha identidade profissional é marcada pela **paixão** por tecnologia e pela 
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+
 ### 🔧 **Principais Tecnologias e Habilidades:**
 
-- **Distribuições Linux:**
-  - **Ubuntu:** Experiência desde as versões 10, 14, 16, 18, 20 e 22
-  - **Debian:** Versões 7, 8, 9, 10 e 11
-  - **CentOS:** Versões 7 e 8
+#### **Distribuições Linux:**
+- **Ubuntu:** 
+  ![Ubuntu 10](https://img.shields.io/badge/Ubuntu-10-blue)
+  ![Ubuntu 14](https://img.shields.io/badge/Ubuntu-14-blue)
+  ![Ubuntu 16](https://img.shields.io/badge/Ubuntu-16-blue)
+  ![Ubuntu 18](https://img.shields.io/badge/Ubuntu-18-blue)
+  ![Ubuntu 20](https://img.shields.io/badge/Ubuntu-20-blue)
+  ![Ubuntu 22](https://img.shields.io/badge/Ubuntu-22-blue)
+- **Debian:** 
+  ![Debian 7](https://img.shields.io/badge/Debian-7-blue)
+  ![Debian 8](https://img.shields.io/badge/Debian-8-blue)
+  ![Debian 9](https://img.shields.io/badge/Debian-9-blue)
+  ![Debian 10](https://img.shields.io/badge/Debian-10-blue)
+  ![Debian 11](https://img.shields.io/badge/Debian-11-blue)
+- **CentOS:** 
+  ![CentOS 7](https://img.shields.io/badge/CentOS-7-blue)
+  ![CentOS 8](https://img.shields.io/badge/CentOS-8-blue)
 
-- **Gerenciamento e Configuração:**
-  - Acesso remoto (SSH, VNC)
-  - Orquestração de configuração (Ansible, Puppet)
-  - Gerenciamento de firewall (UFW)
+#### **Gerenciamento e Configuração:**
+- **Acesso Remoto:** 
+  ![SSH](https://img.shields.io/badge/SSH-Enabled-brightgreen)
+  ![VNC](https://img.shields.io/badge/VNC-Enabled-brightgreen)
+- **Orquestração de Configuração:** 
+  ![Ansible](https://img.shields.io/badge/Ansible-Experienced-orange)
+  ![Puppet](https://img.shields.io/badge/Puppet-Experienced-orange)
+- **Gerenciamento de Firewall:** 
+  ![UFW](https://img.shields.io/badge/UFW-Experienced-orange)
 
-- **Serviços e Funções em Windows Server:**
-  - **Active Directory:** Configuração e gerenciamento de GPOs
-  - **DNS:** Configuração de zonas e resolução de nomes
-  - **DHCP:** Configuração e gerenciamento de escopos
-  - **File Server:** Configuração de compartilhamento e permissões
-  - **Terminal Services:** Implementação e gerenciamento
-  - **PowerShell:** Scripting e automação de tarefas
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+#### **Serviços e Funções em Windows Server:**
+- **Active Directory:** 
+  ![Active Directory](https://img.shields.io/badge/Active_Directory-Configured_and_Managed-yellow)
+- **DNS:** 
+  ![DNS](https://img.shields.io/badge/DNS-Zones_and_Name_Resolution-green)
+- **DHCP:** 
+  ![DHCP](https://img.shields.io/badge/DHCP-Configured_and_Managed-green)
+- **File Server:** 
+  ![File Server](https://img.shields.io/badge/File_Server-Configured_and_Managed-green)
+- **Terminal Services:** 
+  ![Terminal Services](https://img.shields.io/badge/Terminal_Services-Implemented_and_Managed-blue)
+- **PowerShell:** 
+  ![PowerShell](https://img.shields.io/badge/PowerShell-Scripting_and_Automation-blue)
 
 ## 🛠️ **Habilidades de Scripting e Automação:**
 - **Bash Scripting:** Automação de tarefas no Linux
