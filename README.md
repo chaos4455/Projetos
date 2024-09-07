@@ -10,7 +10,19 @@ Este repositório documenta uma seleção de projetos técnicos significativos a
 - 📞 **Telefone:** +55 (44) 98765-4321
 - 📧 **E-mail:** elias.andrade@email.com
 - 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/eliasandrade)
-- 🌐 **GitHub:** [github.com/chaos4455](https://github.com/chaos4455)
+
+## 🔗 Portfólios e Certificações
+- **LinkedIn:** [linkedin.com/in/itilmgf](https://linkedin.com/in/itilmgf)
+- **GitHub - Portfólio Infraestrutura e Servidores:** [github.com/chaos4455/Certificações](https://github.com/chaos4455/Certifica-es)
+- **Possuo mais de 100 treinamentos nas principais tecnologias em treinamentos realizados dentre 2013 e 2024 **
+- **Treinamento ITIL V3 FOUNDATION**
+- **Treinamento ITIL OSA**
+
+## 💰 Pretensão Salarial
+R$ 3.500,00 - R$ 4.100,00 CLT
+
+## 🎯 Objetivo Profissional
+Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
 
 
   # 🖥️ **Infraestrutura e Servidores**
@@ -85,22 +97,14 @@ Este repositório documenta uma seleção de projetos técnicos significativos a
 ![Web Development](https://img.shields.io/badge/-Web%20Development-3D3D3D?style=flat&logo=html5&logoColor=ffffff)
 
 ## 🎯 Objetivos de Aprendizado
-- **Aprender .NET e C#**  
-  ![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat&logo=dotnet&logoColor=ffffff)
-  
+
 - **Dominar Git e DevOps**  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
 
-- **Aprimorar habilidades em NoSQL**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
-
-- **Desenvolver APIs e microserviços**  
+- **Desenvolver cada vez projetos melhores e mais robustos de APIs e microserviços**  
   ![REST](https://img.shields.io/badge/-REST-FF6F61?style=flat&logo=apollographql&logoColor=ffffff)
   
-- **Gamificação e Desenvolvimento de Jogos**  
-  ![Unity](https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=ffffff)
-
 ## 📈 Progressão na Carreira
 - **Desenvolvedor Full Stack**  
   ![Full Stack](https://img.shields.io/badge/-Full%20Stack-007ACC?style=flat&logo=vue.js&logoColor=ffffff)
@@ -112,8 +116,7 @@ Este repositório documenta uma seleção de projetos técnicos significativos a
   ![Entrepreneur](https://img.shields.io/badge/-Entrepreneur-3D3D3D?style=flat&logo=business&logoColor=ffffff)
 
 ## 🌟 Visão Futura
-- Criar soluções inovadoras que integrem IA em diversos setores.
-- Aumentar a presença em projetos de open source e contribuir com a comunidade.
+- Criar soluções inovadoras que integrem IA em diversos setores de empresas inovadoras que pensam fora da caixa.
 
 # 🚀 Roadmap da Carreira de Elias Andrade
 
@@ -127,11 +130,10 @@ Este repositório documenta uma seleção de projetos técnicos significativos a
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
-![Unity](https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=ffffff)
 
 ## 💼 Experiência Profissional
 
-### 1. **CONFIDENCIAL - Comércio, Saúde e Bem Estar**
+### 1. **Medicinal farmacia e manipulação industria, varejo e ecommerce - Comércio, Saúde e Bem Estar**
    - **Cargo:** Administrador de Redes
    - **Período:** 02/2019 - 10/2023 (4 anos e 8 meses)
    - **Tecnologias Utilizadas:**
@@ -151,7 +153,6 @@ Este repositório documenta uma seleção de projetos técnicos significativos a
 
 ### 2. **Coca Cola FEMSA**
    - **Cargo:** Técnico de TI
-   - **Período:** [Data de entrada e saída]
    - **Tecnologias Utilizadas:**
      - ![SAP](https://img.shields.io/badge/-SAP-0FA3E0?style=flat&logo=sap&logoColor=ffffff)
      - ![Linux CentOS](https://img.shields.io/badge/-Linux%20CentOS-262577?style=flat&logo=linux&logoColor=ffffff)
@@ -163,7 +164,6 @@ Este repositório documenta uma seleção de projetos técnicos significativos a
 
 ### 3. **GOL Linhas Aéreas**
    - **Cargo:** Analista de Suporte
-   - **Período:** [Data de entrada e saída]
    - **Tecnologias Utilizadas:**
      - ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D7?style=flat&logo=microsoft&logoColor=ffffff)
      - ![Office 365](https://img.shields.io/badge/-Office%20365-D83A31?style=flat&logo=microsoftoffice&logoColor=ffffff)
@@ -174,7 +174,6 @@ Este repositório documenta uma seleção de projetos técnicos significativos a
 
 ### 4. **Hospital Santa Rita**
    - **Cargo:** Suporte Técnico
-   - **Período:** [Data de entrada e saída]
    - **Tecnologias Utilizadas:**
      - ![Sistemas de Gestão Hospitalar](https://img.shields.io/badge/-SGH-5A9E4A?style=flat&logo=medical&logoColor=ffffff)
      - ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D7?style=flat&logo=microsoft&logoColor=ffffff)
@@ -183,38 +182,7 @@ Este repositório documenta uma seleção de projetos técnicos significativos a
      - Suporte aos sistemas de TI utilizados pelo hospital.
      - Manutenção de equipamentos e infraestrutura.
 
-### 5. **Wnet**
-   - **Cargo:** [Cargo]
-   - **Período:** [Data de entrada e saída]
-   - **Tecnologias Utilizadas:**
-     - ![Tecnologias Utilizadas na Wnet](https://img.shields.io/badge/-Tecnologia-XXXXXX?style=flat&logo=technology&logoColor=ffffff) <!-- Substitua XXXXXX pela cor e logo adequados -->
-   - **Atividades:**
-     - [Descrição das atividades desempenhadas]
 
-## 🎯 Objetivos de Aprendizado
-- **Aprender .NET e C#**
-- **Dominar Git e DevOps**
-- **Aprimorar habilidades em NoSQL**
-- **Desenvolver APIs e microserviços**
-- **Gamificação e Desenvolvimento de Jogos**
-
-## 🌟 Visão Futura
-- Criar soluções inovadoras que integrem IA em diversos setores.
-- Aumentar a presença em projetos open source e contribuir com a comunidade.
-
-## 💰 Pretensão Salarial
-R$ 3.500,00 - R$ 4.100,00
-
-## 🎯 Objetivo Profissional
-Oferecer soluções práticas e inovadoras para empresas locais, adaptando-se a diferentes necessidades e exigências de negócios.
-
-## 🔗 Portfólios e Certificações
-- **LinkedIn:** [linkedin.com/in/itilmgf](https://linkedin.com/in/itilmgf)
-- **GitHub - Portfólio Infraestrutura e Servidores:** [github.com/chaos4455/Certificações](https://github.com/chaos4455/Certificações)
-- **GitHub - Portfólio Projetos DevOps:** [github.com/chaos4455/Devops-2024](https://github.com/chaos4455/Devops-2024)
-- **GitHub - Portfólio de Projetos 2010 até 2024:** [github.com/chaos4455/Projetos](https://github.com/chaos4455/Projetos)
-- **Treinamento ITIL V3 FOUNDATION**
-- **Treinamento ITIL OSA**
 
 
 ## Projetos por Empresa e Ano 🚀
