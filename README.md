@@ -20,7 +20,7 @@ Estou animado para enfrentar novos desafios e contribuir com a minha experiênci
 - **Treinamento ITIL OSA**
 
 ## 💰 Pretensão Salarial
-R$ 3.500,00 - R$ 4.100,00 CLT
+R$ 4.100,00 - R$ 4.500,00 CLT + benefícios
 
 ## 🎯 Objetivo Profissional
 Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
