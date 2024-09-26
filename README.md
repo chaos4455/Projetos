@@ -19,6 +19,12 @@ Estou animado para enfrentar novos desafios e contribuir com a minha experiênci
 - **Treinamento ITIL V3 FOUNDATION**
 - **Treinamento ITIL OSA**
 
+
+## 📈 **Estatísticas no GitHub**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
+
 ## 💰 Pretensão Salarial
 R$ 4.100,00 - R$ 4.500,00 CLT + benefícios
 
