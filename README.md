@@ -523,3 +523,20 @@ _Março 2010 - Agosto 2011_
   - Implementação de políticas de segurança avançadas no Active Directory.
   - Administração de servidores de terminal para acesso remoto seguro.
 
+# **Elias Andrade** 💻🚀
+
+Construído com muito amor e dedicação ❤️  
+Elias Andrade - 23/10/2024 - Maringá, Paraná  
+**Isadora, te amo filha do meu coração!** 👨‍👧💖  
+
+### "Não há conhecimento que não seja poder." 💎🦂
+
+## Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/itilmgf)  
+- [GitHub](https://github.com/evolucaoit)  
+
+## Repositórios:
+- [Chaos4455](https://github.com/chaos4455) 🎲💡  
+- [Replika AI Solutions](https://github.com/replika-ai-solutions?tab=repositories) 🤖🛠️  
+
+Feito com carinho e uma pitada de tecnologia, rsrsrs. 🚀❤️
