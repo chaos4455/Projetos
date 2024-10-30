@@ -1,11 +1,5 @@
 # Elias dos Santos de Andrade - Projetos Técnicos e trajetória profissional 2010-2024🖥️ 🛠️
 
-### 🔄 Em Busca de Novos Desafios
-
-Estou animado para enfrentar novos desafios e contribuir com a minha experiência e paixão por tecnologia em uma nova organização. Estou à disposição para discutir oportunidades que possam se alinhar com meus objetivos e a visão da empresa.
-
-![Desafios](https://img.shields.io/badge/Desafios-Em%20Busca-yellow)
-
 ## 🔗 Portfólios e Certificados de treinamentos
 - **GitHub - Portfólio Infraestrutura e Servidores:** [github.com/chaos4455/Certifica-es](https://github.com/chaos4455/Certifica-es)
 - **Possuo mais de 100 treinamentos nas principais tecnologias em treinamentos realizados dentre 2013 e 2024**
