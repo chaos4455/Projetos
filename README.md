@@ -6,13 +6,6 @@ Estou animado para enfrentar novos desafios e contribuir com a minha experiênci
 
 ![Desafios](https://img.shields.io/badge/Desafios-Em%20Busca-yellow)
 
-## Informações de Contato 📞 📧 🏠
-
-- 🏠 **Localização:** Maringá, Paraná, Brasil
-- 📞 **Telefone:** +55 (44) 98765-4321
-- 📧 **E-mail:** elias.andrade@email.com
-- 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/itilmgf)
-
 ## 🔗 Portfólios e Certificados de treinamentos
 - **GitHub - Portfólio Infraestrutura e Servidores:** [github.com/chaos4455/Certifica-es](https://github.com/chaos4455/Certifica-es)
 - **Possuo mais de 100 treinamentos nas principais tecnologias em treinamentos realizados dentre 2013 e 2024**
