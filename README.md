@@ -6,6 +6,13 @@
 - **Treinamento ITIL V3 FOUNDATION**
 - **Treinamento ITIL OSA**
 
+💻 **DevOps Infrastructure Analyst** | 🐳 **Docker/Kubernetes** | ⚙️ **GitOps** (GitHub/GitHub Actions/ArgoCD)  
+🖥️ **Windows/Linux Server Administration** | ☁️ **VMware/Hyper-V Virtualization**  
+🐍 **Python Developer** | 🏗️ **Solution Architect & Backend Developer**  
+🛠️ **Microservices & Clean Architecture** | 🤖 **LLMOps, MLOps**  
+🧠 **Machine Learning & Generative AI** | 🔬 **Prototyping, Research & Innovation**  
+🚀 **Multi-Paradigm & Multi-Domain AI Solutions**
+
 
 ## 📈 **Estatísticas no GitHub**
 
