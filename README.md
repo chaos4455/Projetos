@@ -25,20 +25,6 @@ Estou animado para enfrentar novos desafios e contribuir com a minha experiênci
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
 
-## 💰 Pretensão Salarial
-R$ 4.100,00 - R$ 4.500,00 CLT + benefícios
-
-## 🎯 Objetivo Profissional
-Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
-
----
-
-### 🌍 O que Busco Hoje
-
-Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutura, DevOps e projetos de inovação. Meu objetivo é aplicar toda a experiência adquirida e as habilidades desenvolvidas para impactar positivamente os resultados das empresas e contribuir para o avanço tecnológico. Estou pronto para enfrentar novos desafios e ajudar a impulsionar a transformação digital nas organizações.
-
-![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
-
 ## Habilidades e Qualificações 🔧 📊
 
 - **Administração de Redes:** Windows Server, Linux (Ubuntu), VMware, Hyper-V.
