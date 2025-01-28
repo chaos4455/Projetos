@@ -3,7 +3,7 @@
 ## 🔗 Portfólios e Certificados de treinamentos
 - **GitHub - Portfólio Infraestrutura e Servidores:** [github.com/chaos4455/Certifica-es](https://github.com/chaos4455/Certifica-es)
 - **Possuo mais de 100 treinamentos nas principais tecnologias em treinamentos realizados dentre 2013 e 2024**
-- **Treinamento ITIL V3 FOUNDATION**
+- **Certificado ITIL V3 FOUNDATION**
 - **Treinamento ITIL OSA**
 
 💻 **DevOps Infrastructure Analyst** | 🐳 **Docker/Kubernetes** | ⚙️ **GitOps** (GitHub/GitHub Actions/ArgoCD)  
@@ -12,6 +12,12 @@
 🛠️ **Microservices & Clean Architecture** | 🤖 **LLMOps, MLOps**  
 🧠 **Machine Learning & Generative AI** | 🔬 **Prototyping, Research & Innovation**  
 🚀 **Multi-Paradigm & Multi-Domain AI Solutions**
+
+![Image January 26, 2025 - 11 36PM](https://github.com/user-attachments/assets/30fa3005-5408-4ea3-af33-eb13a97d7844)
+
+<img width="1443" alt="ImageGlass_DQeHrtyQKI" src="https://github.com/user-attachments/assets/77471c1e-ae39-4085-967c-974ff445182a" />
+
+<img width="899" alt="ImageGlass_H6LReBA9mz" src="https://github.com/user-attachments/assets/b32bd152-4eae-4022-9f8a-bd81fe6a3b0f" />
 
 
 ## 📈 **Estatísticas no GitHub**
